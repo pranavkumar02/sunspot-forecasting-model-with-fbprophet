@@ -15,5 +15,5 @@ The datasets used in this project are sourced from the Solar Influences Data Ana
 ## **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/sunspot-forecasting-with-fbprophet.git
+   git clone https://github.com/<pranavkumar02>/sunspot-forecasting-with-fbprophet.git
    cd sunspot-forecasting-with-fbprophet
