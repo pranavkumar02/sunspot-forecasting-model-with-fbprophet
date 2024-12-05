@@ -2,7 +2,13 @@
 
 This repository contains Python scripts and Jupyter Notebooks for implementing a time series forecasting model using Facebook’s Prophet. The goal is to predict the sunspot numbers on daily, monthly, and yearly scales using historical data. 
 ---
+## **Features**
+- Trains forecasting models and predicts sunspot values for configurable future time ranges.
+- Customizable parameters for growth, seasonality, and trend changepoints.
+- Visualizes historical and predicted values with line graphs.
+- Evaluates models using MAE, MAPE, and R² metrics.
 
+---
 ## **Datasets**
 The datasets used in this project are sourced from the Solar Influences Data Analysis Center (SIDC):
 
